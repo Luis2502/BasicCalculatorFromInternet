@@ -13,9 +13,6 @@ def button(source, side, text, command=None):
     return storeObj
 
    
-   
-   
-   
 class app(Frame):
     def __init__(self):
         Frame.__init__(self)
